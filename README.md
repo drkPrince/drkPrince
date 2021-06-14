@@ -3,7 +3,7 @@
 #### I am a frontend developer who is also passionate about UX design and cloud.
 
 - 🔭 I’m currently looking for my first job.
-- ✨ My core values are minimalism, authenticity and independent thinking.**
+- ✨ My core values are minimalism, authenticity and independent thinking.
 - 📫 How to reach me: Say **Hi** at `thedrkprns@protonmail.com`.
 
 
