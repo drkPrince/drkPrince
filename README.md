@@ -23,7 +23,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## ✨ My Values
+## ✨ My values
 
 - 🟣 Minimalism.
 - 💚 Authenticity.
