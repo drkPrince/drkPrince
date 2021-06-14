@@ -3,7 +3,7 @@
 #### I am a frontend developer who is also passionate about UX design and cloud.
 
 - 🔭 I’m currently looking for my first job.
-- 💬 Ask me about **Programming, philosophy or any deep concepts.**
+- ✨ My core values are minimalism, authenticity and independent thinking.**
 - 📫 How to reach me: Say **Hi** at `thedrkprns@protonmail.com`.
 
 
@@ -22,10 +22,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-## ✨ My values
-
-- 🟣 Minimalism.
-- 💚 Authenticity.
-- 🧠 Independent thinking.
-
