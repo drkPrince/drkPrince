@@ -12,7 +12,6 @@
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=Tailwind-CSS)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -23,4 +22,15 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 🌠 My Values
+
+- Minimalism.
+- Authenticity.
+- Independent thinking.
+
+## 💙 Favourite quote
+
+"When you throw a rock into the water, it will speed on the fastest course to the bottom of the water. This is how it is when Siddhartha has a goal, a resolution. Siddhartha does nothing, he waits, he thinks, he fasts, but he passes through the things of the world like a rock through water, without doing anything, without stirring; he is drawn, he lets himself fall. His goal attracts him, because he doesn't let anything enter his soul which might oppose the goal. This is what Siddhartha has learned among the Samanas. This is what fools call magic and of which they think it would be effected by means of the daemons. Nothing is effected by daemons, there are no daemons. Everyone can perform magic, everyone can reach his goals, if he is able to think, if he is able to wait, if he is able to fast."
+- Herman Hesse, Siddhartha
 
