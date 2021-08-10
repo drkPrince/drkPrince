@@ -1,15 +1,21 @@
 <img src='https://github.com/drkPrince/drkPrince/blob/main/linkedinCover.png' />
 
-### Hi there, I am Prince. 👋
+# Hi there, I am Prince. 👋
 
-#### I am a frontend developer who is also passionate about UX design and cloud.
+### I am a frontend developer who is also passionate about UX design.
 
 - 🔭 I’m currently looking for my first job.
 - ✨ My core values are minimalism, authenticity and independent thinking.
-- 📫 How to reach me: Say **Hi** at `thedrkprns@protonmail.com`.
+- 📫 Don't be a stranger now: Say **Hi** at `thedrkprns@protonmail.com`.
 
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkPrince&hide=contribs,prs)
+<!-- ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkPrince&hide=contribs,prs) -->
+
+### I get most excited when I'm building something cool. Here are some of the projects I'm working on - 
+- [Agilix Kanban Planner](http://agilix.netlify.app)
+- [Spotify Profile](http://sprofile.herokuapp.app)
+- [Twimage](http://twimage.vercel.app)
+
 
 ## ⚡ Technologies
 
@@ -19,8 +25,5 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
