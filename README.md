@@ -1,3 +1,5 @@
+<img src='https://github.com/drkPrince/drkPrince/blob/main/linkedinCover.png' />
+
 ### Hi there, I am Prince. 👋
 
 #### I am a frontend developer who is also passionate about UX design and cloud.
