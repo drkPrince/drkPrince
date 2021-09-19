@@ -4,7 +4,7 @@
 
 ### I am a frontend developer who is also passionate about UX design.
 
-- 🔭 I’m currently working as a software enginner at lining.studio.
+- 🔭 I’m currently working as a software engineer at lining.studio.
 - ✨ My core values are minimalism, authenticity and independent thinking.
 - 📫 Don't be a stranger now: Say **Hi** at `thedrkprns@protonmail.com`.
 
