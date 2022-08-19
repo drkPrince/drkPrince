@@ -2,16 +2,16 @@
 
 # Hi there, I am Prince. 👋
 
-### I am a frontend developer who is also passionate about UX design.
+### I am a frontend developer who is also passionate about UX design. 
 
-- 🔭 I’m currently working as a software engineer at lining.studio.
+- 🔭 I’m currently working as a software engineer at lining.studio to help them re-define e-commerce experiences.
 - ✨ My core values are minimalism, authenticity and independent thinking.
-- 📫 Don't be a stranger now: Say **Hi** at `hello@prnx.dev`.
+- 📫 Don't be a stranger now: Say **hi** at `hello@prnx.dev`.
 
 
 <!-- ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkPrince&hide=contribs,prs) -->
 
-### I get most excited when I'm building something cool. Here are some of the projects I'm working on - 
+### I get most excited when I'm working on my own side projects. Here are some of the things I've been working on - 
 - [Agilix Kanban Planner](http://agilix.netlify.app)
 - [Spotify Profile](http://sprofile.herokuapp.app)
 - [Twimage](http://twimage.vercel.app)
