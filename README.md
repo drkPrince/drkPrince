@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a software engineer at lining.studio to help them re-define e-commerce experiences.
 - ✨ My core values are minimalism, authenticity and independent thinking.
-- 📫 Don't be a stranger now: Say **hi** at `hello@prnx.dev`.
+- 📫 Don't be a stranger now: Say **hi** at `hi@prnx.dev`.
 
 
 <!-- ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkPrince&hide=contribs,prs) -->
